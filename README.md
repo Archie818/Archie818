@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 Hi there! I'm Archie, a Developer.
 
 ### Skills 👀
-[Speaking Chinglish]
-[Killing a colleague problems]
+[Speaking Chinglish]\
+[Killing a colleague problems]\
 [Solely responsible for huge projects]
 
 ### Projects 🌱
-Developer of customised health management websites: [health management](https://github.com/Archie818/health-management)
-Developer of [Double-yang.com](https://double-yang.com/): [Double-yang.com](https://github.com/Archie818/first-personal-website)
+Developer of customised health management websites: [health management](https://github.com/Archie818/health-management)\
+Developer of [Double-yang.com](https://double-yang.com/): [Double-yang.com](https://github.com/Archie818/first-personal-website)\
 Developer of [NFTWebsite.top](https://nftwebsite.top/): [NFTWebsite](https://github.com/Archie818/RoboPunksNFT)
 
 ### Contact Me 📫

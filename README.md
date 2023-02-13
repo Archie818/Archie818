@@ -30,4 +30,4 @@ You can also find me on [Linkedin](https://www.linkedin.com/in/yangy818/).
 
 Thanks for stopping by!
 
-[![Archie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archie818)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archie818&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

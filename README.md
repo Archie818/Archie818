@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 Hi there! I'm Archie, a Developer.
 
 ### Skills 👀
-[Speaking Chinglish]\
-[Killing a colleague problems]\
-[Solely responsible for huge projects]
+Speaking Chinglish\
+Killing a colleague problems\
+Solely responsible for huge projects
 
 ### Projects 🌱
 Developer of customised health management websites: [health management](https://github.com/Archie818/health-management)\
@@ -24,7 +24,7 @@ Developer of [Double-yang.com](https://double-yang.com/): [Double-yang.com](http
 Developer of [NFTWebsite.top](https://nftwebsite.top/): [NFTWebsite](https://github.com/Archie818/RoboPunksNFT)
 
 ### Contact Me 📫
-Feel free to reach out to me at [ayaung@163.com] or connect with me @Archie_818 on Twitter.
+Feel free to reach out to me at [I@double-yang.com] or connect with me @Archie_818 on Twitter.
 
 You can also find me on [Linkedin](https://www.linkedin.com/in/yangy818/).
 

@@ -1,4 +1,4 @@
-### Archie
+<!-- ### Archie -->
 
 <!-- - 👋 Hi, I’m Archie
 - 👀 I’m interested in web development and data analysis.

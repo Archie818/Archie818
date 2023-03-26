@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Archie 👋
 Hi there! I'm Archie, a Developer.
+[JobEasy](https://www.jobeasy.pro/) developers and maintainers.
 
 ### Skills 👀
 Speaking Chinglish\

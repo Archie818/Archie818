@@ -12,9 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Archie 👋
 Hi there! I'm Archie, a Developer.
-[JobEasy](https://www.jobeasy.pro/) developers and maintainers.
-[NFTWebsite](https://www.nftwebsite.top/) developers and maintainers.
-
 
 ### Skills 👀
 Speaking Chinglish\
@@ -22,6 +19,7 @@ Killing a colleague problems\
 Solely responsible for huge projects
 
 ### Projects 🌱
+[JobEasy](https://www.jobeasy.pro/) developers and maintainers.\
 Developer of customised health management websites: [health management](https://github.com/Archie818/health-management)\
 Developer of [Double-yang.com](https://double-yang.com/): [Double-yang.com](https://github.com/Archie818/first-personal-website)\
 Developer of [NFTWebsite.top](https://nftwebsite.top/): [NFTWebsite](https://github.com/Archie818/RoboPunksNFT)

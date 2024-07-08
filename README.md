@@ -1,5 +1,5 @@
 ### Archie 👋
-Hi there! I'm Archie, a Developer.
+Hi there! I'm Archie, a Developer.\
 Passionate about creating innovative and impactful projects, including websites, Web3, and AI.
 
 ### Skills 👀

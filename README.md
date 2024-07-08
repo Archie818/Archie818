@@ -1,28 +1,18 @@
-<!-- ### Archie -->
-
-<!-- - 👋 Hi, I’m Archie
-- 👀 I’m interested in web development and data analysis.
-- 🌱 I’m currently learning Python and working on a few projects to improve my skills. 
-- 💞️ I’m looking to collaborate on collaborate on any interesting projects related to these areas.
-- 📫 If you'd like to reach me, you can send me a message on this platform or email me at I@double-yang.com. -->
-
-<!---
-Archie818/Archie818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Archie 👋
 Hi there! I'm Archie, a Developer.
+Passionate about creating innovative and impactful projects, including websites, Web3, and AI.
 
 ### Skills 👀
-Speaking Chinglish\
-Killing a colleague problems\
-Solely responsible for huge projects
+Speaking Chinglish (Chinese + English)\
+Expert at solving complex problems for people\
+Responsible for developing and managing large-scale projects
 
-### Projects 🌱
+### Personal Projects 🌱
 [JobEasy](https://www.jobeasy.pro/) developers and maintainers.\
+Developer of [HypeTribe](https://ethglobal.com/showcase/hypetribe-eb8om): [HypeTribe](https://github.com/Archie818/hypetribe)\
+Developer of [ArchieYang.com](https://archieyang.com/): [ArchieYang.com](https://github.com/Archie818/first-personal-website)\
 Developer of customised health management websites: [health management](https://github.com/Archie818/health-management)\
-Developer of [Double-yang.com](https://double-yang.com/): [Double-yang.com](https://github.com/Archie818/first-personal-website)\
-Developer of [NFTWebsite.top](https://nftwebsite.top/): [NFTWebsite](https://github.com/Archie818/RoboPunksNFT)
+Some interesting projects coming soon...
 
 ### Contact Me 📫
 Feel free to reach out to me at [me@archieyang.com] or connect with me @Archie_818 on Twitter.
